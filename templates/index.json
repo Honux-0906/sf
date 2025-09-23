@@ -389,7 +389,12 @@
     "popular-products-2": {
       "type": "popular-products",
       "settings": {
-        "product_list": [],
+        "product_list": [
+          "d8f74819-78ed-499a-9e4e-48dd46dc63c7",
+          "49f29030-96c8-447c-b7b3-b5b3ec94b681",
+          "38be58c0-47e5-4ffe-b3c2-8d3c09d7b912",
+          "08b796d3-ec3c-4d41-bfb3-b4de96a73aae"
+        ],
         "columns_per_row": 4,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
@@ -401,10 +406,10 @@
         "image_ratio": "4/3",
         "image_fit": "cover",
         "show_secondary_image": true,
-        "show_vendor": true,
+        "show_vendor": false,
         "show_collection": false,
         "show_desc": false,
-        "content_alignment": "center",
+        "content_alignment": "left",
         "margin_top": "m",
         "margin_bottom": "no-indent"
       }
