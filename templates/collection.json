@@ -21,13 +21,13 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
-        "products_per_page": 12,
+        "products_per_page": 9,
         "columns_mobile": "1",
-        "image_ratio": "3/4",
+        "image_ratio": "3/2",
         "image_fit": "cover",
         "content_alignment": "center",
         "show_secondary_image": true,
-        "show_vendor": true,
+        "show_vendor": false,
         "show_collection": false,
         "show_desc": false,
         "enable_filtering": true,
