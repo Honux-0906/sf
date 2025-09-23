@@ -425,16 +425,16 @@
         "block_1": {
           "type": "product-slider_item",
           "settings": {
-            "product": "",
+            "product": "e8fe6447-c933-437a-8833-0e32dc2d436b",
             "image": "shopify://shop_images/15r.webp",
             "subheading": "FEATURED COLLECTION",
             "heading": "Begin a seamless buying joumey where qualityconvenience, and electronics meet",
             "heading_size": "h2",
             "text": "",
             "primary_button_label": "Shop Collection",
-            "primary_button_link": "shopify://collections",
+            "primary_button_link": "shopify://collections/all",
             "secondary_button_label": "",
-            "secondary_button_link": "",
+            "secondary_button_link": "shopify://collections/all",
             "overlay_enable": true,
             "overlay_opacity": 0.2
           }
@@ -442,13 +442,14 @@
         "block_2": {
           "type": "product-slider_item",
           "settings": {
-            "product": "",
-            "subheading": "Some Subheading",
-            "heading": "Some Heading",
+            "product": "5c40c975-2c2b-4e74-87cc-b744c4ae5e90",
+            "image": "shopify://shop_images/2.webp",
+            "subheading": "FEATURED COLLECTION",
+            "heading": "From olassic pieces to modern accents, findeverything you need to create a home",
             "heading_size": "h2",
             "text": "",
-            "primary_button_label": "Button label",
-            "primary_button_link": "",
+            "primary_button_label": "Shop Collection",
+            "primary_button_link": "shopify://collections/all",
             "secondary_button_label": "",
             "secondary_button_link": "",
             "overlay_enable": true,
@@ -458,12 +459,13 @@
         "block_3": {
           "type": "product-slider_item",
           "settings": {
-            "product": "",
-            "subheading": "Some Subheading",
-            "heading": "Some Heading",
+            "product": "38be58c0-47e5-4ffe-b3c2-8d3c09d7b912",
+            "image": "shopify://shop_images/3.webp",
+            "subheading": "FEATURED COLLECTION",
+            "heading": "Discover products crafted to add a splash osophistication to your living spaces",
             "heading_size": "h2",
             "text": "",
-            "primary_button_label": "Button label",
+            "primary_button_label": "Shop Collection",
             "primary_button_link": "",
             "secondary_button_label": "",
             "secondary_button_link": "",
@@ -489,7 +491,7 @@
         "show_arrows": true,
         "show_bullets": true,
         "slideshow_speed": 1.1,
-        "slideshow_delay": 3,
+        "slideshow_delay": 2.3,
         "slide_effects": "slide",
         "margin_top": "m",
         "margin_bottom": "no-indent"
