@@ -1,1 +1,139 @@
-{"sections":{"banner":{"type":"main-collection-banner","settings":{"show_collection_description":true,"show_collection_image":true,"margin_top":"no-indent","margin_bottom":"no-indent"}},"product-grid":{"type":"main-collection-product-grid","settings":{"products_per_page":12,"image_ratio":"3\/4","image_fit":"cover","show_secondary_image":true,"show_vendor":true,"show_desc":false,"enable_filtering":true,"enable_sorting":true,"margin_top":"xs","margin_bottom":"no-indent"}},"media":{"type":"media","blocks":{"block_1":{"type":"media_card","settings":{}},"block_2":{"type":"media_card","settings":{}}},"block_order":["block_1","block_2"],"settings":{"margin_top":"m","margin_bottom":"no-indent"}},"newsletter":{"type":"newsletter","settings":{"color_scheme":"background-1","margin_top":"m","margin_bottom":"no-indent"}}},"order":["banner","product-grid","media","newsletter"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 12,
+        "columns_mobile": "1",
+        "image_ratio": "3/4",
+        "image_fit": "cover",
+        "content_alignment": "center",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_collection": false,
+        "show_desc": false,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "margin_top": "xs",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "media": {
+      "type": "media",
+      "blocks": {
+        "block_1": {
+          "type": "media_card",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/new1_a3567db3-bb10-49d4-9d2a-0ccc1575d076.webp",
+            "overlay_enable": true,
+            "overlay_opacity": 0.2,
+            "show_video": false,
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay_video": true,
+            "muted_video": true,
+            "loop_video": true,
+            "show_icon_play": true,
+            "show_icon_sound": true,
+            "description_video": "",
+            "subheading": "NEW ARRIVALS",
+            "heading": "Be the First to Introduce ExquisiteDecor Collection",
+            "heading_size": "h2",
+            "text": "",
+            "primary_button_label": "Shop Now",
+            "primary_button_link": "",
+            "secondary_button_label": "",
+            "secondary_button_link": "",
+            "full_link": false
+          }
+        },
+        "block_2": {
+          "type": "media_card",
+          "settings": {
+            "color_scheme": "",
+            "overlay_enable": true,
+            "overlay_opacity": 0.2,
+            "show_video": false,
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay_video": true,
+            "muted_video": true,
+            "loop_video": true,
+            "show_icon_play": true,
+            "show_icon_sound": true,
+            "description_video": "",
+            "subheading": "Some Subheading",
+            "heading": "Some Heading",
+            "heading_size": "h2",
+            "text": "",
+            "primary_button_label": "Button label",
+            "primary_button_link": "",
+            "secondary_button_label": "Button label",
+            "secondary_button_link": "",
+            "full_link": false
+          }
+        }
+      },
+      "block_order": [
+        "block_1",
+        "block_2"
+      ],
+      "settings": {
+        "columns_per_row": 2,
+        "content_alignment": "center",
+        "indent_value": "1.6rem",
+        "swipe_on_mobile": false,
+        "image_ratio": "16/9",
+        "section_heading": "",
+        "section_heading_size": "h3",
+        "section_button_label": "",
+        "section_button_link": "",
+        "section_button_style": "secondary",
+        "margin_top": "m",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "color_scheme": "background-1",
+        "overlay_enable": true,
+        "overlay_opacity": 0.5,
+        "align_content": "right",
+        "heading": "Heading for subscribe form",
+        "heading_size": "h2",
+        "newsletter_text": "Additional text for subscribe form.",
+        "button_style": "primary",
+        "show_border_top": true,
+        "show_border_bottom": false,
+        "margin_top": "m",
+        "margin_bottom": "no-indent",
+        "padding_top": "l",
+        "padding_bottom": "l"
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "media",
+    "newsletter"
+  ]
+}
