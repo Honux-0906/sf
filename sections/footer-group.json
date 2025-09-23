@@ -26,7 +26,7 @@
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "Customer Service",
             "menu": "main-menu",
             "default_open": false
           }
