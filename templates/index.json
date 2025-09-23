@@ -97,6 +97,7 @@
           "settings": {
             "collection": "outdoor-furniture",
             "color_scheme": "",
+            "image": "shopify://shop_images/2489e938eb28f79da345a150b2ceb401_7613b6d6-6be2-4f2d-85e0-c5e76c742e59.png",
             "overlay_enable": true,
             "overlay_opacity": 0.2
           }
