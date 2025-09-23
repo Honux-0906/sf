@@ -248,10 +248,10 @@
           "type": "column",
           "settings": {
             "icon": "globe",
-            "heading": "Column Heading",
-            "text": "Column Description",
-            "button_label": "Button label",
-            "button_link": "",
+            "heading": "Free Shipping",
+            "text": "Enjoy free shipping when shop more! Allorders over $250 are delivered todoorstep at no extra charge.",
+            "button_label": "Shipping Policy",
+            "button_link": "shopify://policies/shipping-policy",
             "button_style": "secondary",
             "full_link": false
           }
@@ -259,11 +259,11 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "icon": "globe",
-            "heading": "Column Heading",
-            "text": "Column Description",
-            "button_label": "Button label",
-            "button_link": "",
+            "icon": "return",
+            "heading": "30-Days Free Returns",
+            "text": "Enjoy the freedom of stress-freeshopping with our hassle-free andcomplimentary return policy.",
+            "button_label": "Refund Policy",
+            "button_link": "shopify://policies/refund-policy",
             "button_style": "secondary",
             "full_link": false
           }
@@ -271,11 +271,11 @@
         "column-3": {
           "type": "column",
           "settings": {
-            "icon": "globe",
-            "heading": "Column Heading",
-            "text": "Column Description",
-            "button_label": "Button label",
-            "button_link": "",
+            "icon": "lock",
+            "heading": "commit to protecting users' privacy",
+            "text": "We remember your preferences and the items you're interested in",
+            "button_label": "Privacy Policy",
+            "button_link": "shopify://policies/privacy-policy",
             "button_style": "secondary",
             "full_link": false
           }
@@ -309,6 +309,7 @@
           "type": "media_card",
           "settings": {
             "color_scheme": "",
+            "image": "shopify://shop_images/new1.webp",
             "overlay_enable": true,
             "overlay_opacity": 0.2,
             "show_video": false,
@@ -319,13 +320,13 @@
             "show_icon_play": true,
             "show_icon_sound": true,
             "description_video": "",
-            "subheading": "Some Subheading",
-            "heading": "Some Heading",
+            "subheading": "NEW ARRIVALS",
+            "heading": "Be the First to Introduce ExquisiteDecor Collection",
             "heading_size": "h2",
             "text": "",
-            "primary_button_label": "Button label",
-            "primary_button_link": "",
-            "secondary_button_label": "Button label",
+            "primary_button_label": "Shop Now",
+            "primary_button_link": "shopify://collections",
+            "secondary_button_label": "",
             "secondary_button_link": "",
             "full_link": false
           }
