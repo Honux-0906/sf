@@ -17,13 +17,13 @@
           "settings": {
             "color_scheme": "background-3",
             "image": "shopify://shop_images/01_hero_interior_new.webp",
-            "subheading": "Some Subheading",
-            "heading": "Slide Heading",
+            "subheading": "NEW ARRIVALS",
+            "heading": "Dream Spaces & Electronics: Yourlmagination, Our Blueprint",
             "heading_size": "h1",
-            "text": "Text from here describes your slide",
-            "primary_button_label": "Button label",
+            "text": "Explore curated interiors and electronics that work inharmony to improve your living space.",
+            "primary_button_label": "Shop Now",
             "primary_button_link": "",
-            "secondary_button_label": "Button label",
+            "secondary_button_label": "",
             "secondary_button_link": "",
             "overlay_enable": true,
             "overlay_opacity": 0.2
