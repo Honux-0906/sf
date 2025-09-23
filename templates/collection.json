@@ -69,6 +69,7 @@
           "type": "media_card",
           "settings": {
             "color_scheme": "",
+            "image": "shopify://shop_images/new2_66095ec1-b55e-43d5-8ddb-b1f95f82fd32.webp",
             "overlay_enable": true,
             "overlay_opacity": 0.2,
             "show_video": false,
@@ -79,13 +80,13 @@
             "show_icon_play": true,
             "show_icon_sound": true,
             "description_video": "",
-            "subheading": "Some Subheading",
-            "heading": "Some Heading",
+            "subheading": "NEW ARRIVALS",
+            "heading": "Find Everything You Need to RefreshLiving Space",
             "heading_size": "h2",
             "text": "",
-            "primary_button_label": "Button label",
+            "primary_button_label": "Shop Now",
             "primary_button_link": "",
-            "secondary_button_label": "Button label",
+            "secondary_button_label": "",
             "secondary_button_link": "",
             "full_link": false
           }
