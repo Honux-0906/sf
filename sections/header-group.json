@@ -15,9 +15,9 @@
       "type": "announcement-bar",
       "settings": {
         "height": 50,
-        "height_mobile": 40,
+        "height_mobile": 45,
         "color_scheme": "",
-        "text": "For example, a test of the announcement of some news"
+        "text": "<strong>Elevate Your Global Living，One Piece at a Time</strong>"
       }
     },
     "header": {
