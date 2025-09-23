@@ -72,33 +72,6 @@
           "settings": {
             "description": ""
           }
-        },
-        "dropdown_information_1": {
-          "type": "dropdown_information",
-          "settings": {
-            "characteristics": false,
-            "heading": "Some heading",
-            "description": "<p>Some description</p>",
-            "default_open": false
-          }
-        },
-        "dropdown_information_2": {
-          "type": "dropdown_information",
-          "settings": {
-            "characteristics": false,
-            "heading": "Some heading",
-            "description": "<p>Some description</p>",
-            "default_open": false
-          }
-        },
-        "dropdown_information_3": {
-          "type": "dropdown_information",
-          "settings": {
-            "characteristics": false,
-            "heading": "Some heading",
-            "description": "<p>Some description</p>",
-            "default_open": false
-          }
         }
       },
       "block_order": [
@@ -110,10 +83,7 @@
         "buy_buttons",
         "inventory",
         "pickup_availability",
-        "description",
-        "dropdown_information_1",
-        "dropdown_information_2",
-        "dropdown_information_3"
+        "description"
       ],
       "settings": {
         "desktop_alignment": "left",
@@ -182,12 +152,12 @@
         "overlay_enable": true,
         "overlay_opacity": 0.5,
         "align_content": "right",
-        "heading": "Heading for subscribe form",
+        "heading": "Sign Up to Our Newsletter and Get Special Offers",
         "heading_size": "h2",
-        "newsletter_text": "Additional text for subscribe form.",
+        "newsletter_text": "By pressing the button “Subscribe”, you confirm that you have read and are agreeing to our <a href=\"https://aesthetic-wood-ash.myshopify.com/policies/privacy-policy\" title=\"Privacy Policy\">Privacy Policy</a> regarding the storage of the data submitted through this form.",
         "button_style": "primary",
         "show_border_top": true,
-        "show_border_bottom": false,
+        "show_border_bottom": true,
         "margin_top": "m",
         "margin_bottom": "no-indent",
         "padding_top": "l",
