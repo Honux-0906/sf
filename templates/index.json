@@ -97,7 +97,7 @@
           "settings": {
             "collection": "outdoor-furniture",
             "color_scheme": "",
-            "image": "shopify://shop_images/2489e938eb28f79da345a150b2ceb401_7613b6d6-6be2-4f2d-85e0-c5e76c742e59.png",
+            "image": "shopify://shop_images/2500x2500_ea17eff6265eef031a9e744b59401d72.webp",
             "overlay_enable": true,
             "overlay_opacity": 0.2
           }
@@ -107,6 +107,7 @@
           "settings": {
             "collection": "living-room-furniture",
             "color_scheme": "",
+            "image": "shopify://shop_images/105920c61e3fe8bd3f8e6854dd161f79.png",
             "overlay_enable": true,
             "overlay_opacity": 0.2
           }
@@ -116,6 +117,7 @@
           "settings": {
             "collection": "lighting",
             "color_scheme": "",
+            "image": "shopify://shop_images/213da8d75bdaa59b8f69f304aff61c89.png",
             "overlay_enable": true,
             "overlay_opacity": 0.2
           }
@@ -125,6 +127,7 @@
           "settings": {
             "collection": "kitchen-remodel",
             "color_scheme": "",
+            "image": "shopify://shop_images/3c5d088c618b02e8ecb8a5ae1db35ad3.png",
             "overlay_enable": true,
             "overlay_opacity": 0.2
           }
@@ -134,6 +137,7 @@
           "settings": {
             "collection": "kitchen-dining-furniture",
             "color_scheme": "",
+            "image": "shopify://shop_images/1bf8a0a91cc0fafd44c6ad3fa09ffa41.webp",
             "overlay_enable": true,
             "overlay_opacity": 0.2
           }
@@ -143,6 +147,7 @@
           "settings": {
             "collection": "entryway-furniture",
             "color_scheme": "",
+            "image": "shopify://shop_images/ec5a51a82535226db155cf8b99607009.webp",
             "overlay_enable": true,
             "overlay_opacity": 0.2
           }
@@ -152,6 +157,7 @@
           "settings": {
             "collection": "decor-rugs",
             "color_scheme": "",
+            "image": "shopify://shop_images/standard_resolution.webp",
             "overlay_enable": true,
             "overlay_opacity": 0.2
           }
@@ -159,8 +165,9 @@
         "collection_item_KJE47Q": {
           "type": "collection_item",
           "settings": {
-            "collection": "best-sellers",
+            "collection": "bathroom-remodel",
             "color_scheme": "",
+            "image": "shopify://shop_images/0a9e11978b5092a0f71a5cbdfe420dcc.webp",
             "overlay_enable": true,
             "overlay_opacity": 0.2
           }
