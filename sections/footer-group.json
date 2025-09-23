@@ -26,7 +26,7 @@
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Customer Service",
+            "heading": "Product Navigation",
             "menu": "main-menu",
             "default_open": false
           }
@@ -34,7 +34,7 @@
         "footer-2": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "Customer Service",
             "menu": "link-list",
             "default_open": false
           }
