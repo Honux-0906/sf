@@ -605,6 +605,7 @@
     },
     "featured_blog": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "blog": "",
         "post_limit": 4,
