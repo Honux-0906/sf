@@ -1,1 +1,64 @@
-{"type":"header","name":"t:sections.header.settings.header-group.label","sections":{"header":{"type":"header","blocks":{"search_promo":{"type":"search_promo","settings":{}}},"block_order":["search_promo"],"settings":{"logo_width":90,"menu":"main-menu","enable_country_selector":true,"enable_social":true,"enable_search":true}},"announcement-bar":{"type":"announcement-bar","settings":{"text":"For example, a test of the announcement of some news"}}},"order":["announcement-bar","header"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "t:sections.header.settings.header-group.label",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "settings": {
+        "height": 50,
+        "height_mobile": 40,
+        "color_scheme": "",
+        "text": "For example, a test of the announcement of some news"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "search_promo": {
+          "type": "search_promo",
+          "settings": {
+            "enable_search_promo": true,
+            "search_menu_heading": "Menu heading",
+            "search_menu": "main-menu",
+            "show_search_block": true,
+            "search_block_color_scheme": "",
+            "search_block_subheading": "Some Subheading",
+            "search_block_heading": "Some Heading",
+            "search_block_desc": "Some Description",
+            "search_block_button_label": "Button label",
+            "search_block_button_link": "",
+            "search_block_overlay_opacity": 0.4,
+            "search_block_full_link": true
+          }
+        }
+      },
+      "block_order": [
+        "search_promo"
+      ],
+      "settings": {
+        "enable_border": true,
+        "logo_position": "left-logo",
+        "logo_width": 90,
+        "menu": "main-menu",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "enable_social": true,
+        "sticky_header_type": "on-scroll-up",
+        "enable_search": true
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
