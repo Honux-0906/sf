@@ -65,6 +65,31 @@
             "full_link": false
           }
         },
+        "media_card_VrwqaH": {
+          "type": "media_card",
+          "settings": {
+            "color_scheme": "background-3",
+            "overlay_enable": true,
+            "overlay_opacity": 0.2,
+            "show_video": false,
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay_video": true,
+            "muted_video": true,
+            "loop_video": true,
+            "show_icon_play": true,
+            "show_icon_sound": true,
+            "description_video": "",
+            "subheading": "Some Subheading",
+            "heading": "Some Heading",
+            "heading_size": "h2",
+            "text": "",
+            "primary_button_label": "Button label",
+            "primary_button_link": "",
+            "secondary_button_label": "Button label",
+            "secondary_button_link": "",
+            "full_link": false
+          }
+        },
         "block_2": {
           "type": "media_card",
           "settings": {
@@ -94,6 +119,7 @@
       },
       "block_order": [
         "block_1",
+        "media_card_VrwqaH",
         "block_2"
       ],
       "settings": {
@@ -115,12 +141,13 @@
       "type": "newsletter",
       "settings": {
         "color_scheme": "background-1",
+        "image": "shopify://shop_images/16194942708c1f5dd04c0a0d3cde8347.png",
         "overlay_enable": true,
         "overlay_opacity": 0.5,
         "align_content": "right",
-        "heading": "Heading for subscribe form",
+        "heading": "Sign Up to Our Newsletter and Get Special Offers",
         "heading_size": "h2",
-        "newsletter_text": "Additional text for subscribe form.",
+        "newsletter_text": "By pressing the button “Subscribe”, you confirm that you have read and are agreeing to our <a href=\"https://aesthetic-wood-ash.myshopify.com/policies/privacy-policy\" title=\"Privacy Policy\">Privacy Policy</a> regarding the storage of the data submitted through this form.",
         "button_style": "primary",
         "show_border_top": true,
         "show_border_bottom": false,
