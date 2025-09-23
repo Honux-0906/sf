@@ -26,6 +26,7 @@
     "show_color_swatch": false,
     "add_to_cart_enabled": true,
     "show_on_mobile": true,
+    "cart_type": "drawer",
     "cart_color_scheme": "background-1",
     "cart_drawer_subtitle": "We've gathered all the fantastic products you've chosen during your shopping journey right here.",
     "currency_code_enabled": true,

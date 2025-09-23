@@ -1,1 +1,68 @@
-{"sections":{"cart-items":{"type":"main-cart-items","settings":{"show_cart_note":false,"margin_top":"no-indent","margin_bottom":"no-indent"}},"popular-products":{"type":"popular-products","settings":{"margin_top":"m","margin_bottom":"no-indent"}},"newsletter":{"type":"newsletter","settings":{"color_scheme":"background-1","margin_top":"m","margin_bottom":"no-indent"}}},"order":["cart-items","popular-products","newsletter"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "cart-items": {
+      "type": "main-cart-items",
+      "settings": {
+        "show_cart_note": true,
+        "margin_top": "xs",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "popular-products": {
+      "type": "popular-products",
+      "settings": {
+        "product_list": [],
+        "columns_per_row": 4,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "section_heading": "Section Heading",
+        "section_heading_size": "h3",
+        "section_button_label": "Button label",
+        "section_button_link": "",
+        "section_button_style": "secondary",
+        "image_ratio": "3/4",
+        "image_fit": "cover",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_collection": false,
+        "show_desc": false,
+        "content_alignment": "center",
+        "margin_top": "m",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "color_scheme": "background-1",
+        "overlay_enable": true,
+        "overlay_opacity": 0.5,
+        "align_content": "right",
+        "heading": "Heading for subscribe form",
+        "heading_size": "h2",
+        "newsletter_text": "Additional text for subscribe form.",
+        "button_style": "primary",
+        "show_border_top": true,
+        "show_border_bottom": false,
+        "margin_top": "m",
+        "margin_bottom": "no-indent",
+        "padding_top": "l",
+        "padding_bottom": "l"
+      }
+    }
+  },
+  "order": [
+    "cart-items",
+    "popular-products",
+    "newsletter"
+  ]
+}
