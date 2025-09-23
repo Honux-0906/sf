@@ -65,31 +65,6 @@
             "full_link": false
           }
         },
-        "media_card_VrwqaH": {
-          "type": "media_card",
-          "settings": {
-            "color_scheme": "background-3",
-            "overlay_enable": true,
-            "overlay_opacity": 0.2,
-            "show_video": false,
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "autoplay_video": true,
-            "muted_video": true,
-            "loop_video": true,
-            "show_icon_play": true,
-            "show_icon_sound": true,
-            "description_video": "",
-            "subheading": "Some Subheading",
-            "heading": "Some Heading",
-            "heading_size": "h2",
-            "text": "",
-            "primary_button_label": "Button label",
-            "primary_button_link": "",
-            "secondary_button_label": "Button label",
-            "secondary_button_link": "",
-            "full_link": false
-          }
-        },
         "block_2": {
           "type": "media_card",
           "settings": {
@@ -119,7 +94,6 @@
       },
       "block_order": [
         "block_1",
-        "media_card_VrwqaH",
         "block_2"
       ],
       "settings": {
