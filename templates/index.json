@@ -503,6 +503,7 @@
         "testimonials_slide_1": {
           "type": "testimonials_slide",
           "settings": {
+            "image": "shopify://shop_images/073dfc6d254f4c97acfff3a472817604.jpg",
             "text": "Text of review",
             "product_name": "Product Name",
             "author_name": "Author Name",
@@ -513,6 +514,7 @@
         "testimonials_slide_2": {
           "type": "testimonials_slide",
           "settings": {
+            "image": "shopify://shop_images/80852c650e8247f9928143864408e237.jpg",
             "text": "Text of review",
             "product_name": "Product Name",
             "author_name": "Author Name",
@@ -523,6 +525,7 @@
         "testimonials_slide_3": {
           "type": "testimonials_slide",
           "settings": {
+            "image": "shopify://shop_images/ecbb8d99898685684f1236ba0bccbb17.webp",
             "text": "Text of review",
             "product_name": "Product Name",
             "author_name": "Author Name",
