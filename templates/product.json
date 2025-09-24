@@ -31,7 +31,7 @@
           "type": "price",
           "settings": {
             "show_tax_info": false,
-            "show_shipping": false
+            "show_shipping": true
           }
         },
         "variant_picker": {
@@ -54,7 +54,7 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_quantity": true,
-            "show_gift_card_recipient": false
+            "show_gift_card_recipient": true
           }
         },
         "inventory": {
