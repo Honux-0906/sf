@@ -14,6 +14,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
+        "image_products": "shopify://shop_images/2634f04439a8cc96ab31cbfcf6fe3408_1.webp",
         "margin_top": "no-indent",
         "margin_bottom": "no-indent"
       }
