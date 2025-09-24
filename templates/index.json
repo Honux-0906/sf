@@ -503,10 +503,10 @@
         "testimonials_slide_1": {
           "type": "testimonials_slide",
           "settings": {
-            "image": "shopify://shop_images/073dfc6d254f4c97acfff3a472817604.jpg",
-            "text": "Text of review",
-            "product_name": "Product Name",
-            "author_name": "Author Name",
+            "image": "shopify://shop_images/01_testimonials_inteior.webp",
+            "text": "Set has elevated my living room to a space ofelegance and comfort, where every family memberenjoys spending time. lt is not just furniture; it's aninvestment in quality and comfort.",
+            "product_name": "Curve Lounge Chair",
+            "author_name": "Reviewed by Dylan Moreno",
             "enable_stars": true,
             "rating": 5
           }
@@ -514,10 +514,10 @@
         "testimonials_slide_2": {
           "type": "testimonials_slide",
           "settings": {
-            "image": "shopify://shop_images/80852c650e8247f9928143864408e237.jpg",
-            "text": "Text of review",
-            "product_name": "Product Name",
-            "author_name": "Author Name",
+            "image": "shopify://shop_images/02_testimonials_inteior.webp",
+            "text": "The storage space underneath is a thoughtfuladdition, helping keep the living room tidy andclutter-free.Graphite",
+            "product_name": "Graphite Gleam Plush Sofa",
+            "author_name": "Reviewed by Keira lto",
             "enable_stars": true,
             "rating": 5
           }
@@ -525,10 +525,10 @@
         "testimonials_slide_3": {
           "type": "testimonials_slide",
           "settings": {
-            "image": "shopify://shop_images/ecbb8d99898685684f1236ba0bccbb17.webp",
-            "text": "Text of review",
-            "product_name": "Product Name",
-            "author_name": "Author Name",
+            "image": "shopify://shop_images/03_testimonials_inteior.webp",
+            "text": "Iwant to mention the delivery service, which wasprompt and efficient. The delivery team assembledall the pieces expertly, leaving no mess behind,which was a huge relief.",
+            "product_name": "Modernist Conference Table",
+            "author_name": "Reviewed by Javier Espinoza",
             "enable_stars": true,
             "rating": 5
           }
@@ -551,7 +551,7 @@
         "subheading": "Reviews",
         "heading": "We Appreciate Your Feedback and Always Listen to Your Opinion",
         "heading_size": "h2",
-        "text": "Description",
+        "text": "4.5 Out of 5 Stars from Over 325 Reviews",
         "margin_top": "m",
         "margin_bottom": "no-indent"
       }
