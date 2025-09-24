@@ -42,6 +42,7 @@
         },
         "popup": {
           "type": "popup",
+          "disabled": true,
           "settings": {
             "label": "Popup link text",
             "page": "",
@@ -110,9 +111,9 @@
         "section_heading": "Complementary Products",
         "section_heading_size": "h3",
         "section_button_label": "Shop All",
-        "section_button_link": "",
+        "section_button_link": "shopify://collections",
         "section_button_style": "secondary",
-        "image_ratio": "3/4",
+        "image_ratio": "1/1",
         "image_fit": "cover",
         "show_secondary_image": true,
         "show_vendor": true,
