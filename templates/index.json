@@ -213,7 +213,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "section_heading": "Latest Arrivals",
-        "section_heading_size": "h2",
+        "section_heading_size": "h4",
         "section_button_label": "Shop All",
         "section_button_link": "shopify://collections",
         "section_button_style": "secondary",
@@ -223,7 +223,7 @@
         "show_vendor": false,
         "show_collection": false,
         "show_desc": false,
-        "content_alignment": "left",
+        "content_alignment": "center",
         "margin_top": "m",
         "margin_bottom": "no-indent"
       }
