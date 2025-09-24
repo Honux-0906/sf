@@ -18,7 +18,7 @@
           "type": "logo_info",
           "settings": {
             "logo_width": 90,
-            "description": "Description",
+            "description": "Homary: We’ve got 2 million fans across the U.S.—and we’re all about transforming homes with sleek, multi-functional, and budget-friendly home solutions. Think furniture, outdoor essentials, bathroom pieces, lighting, decor, and more.               At Homary, we’re redefining home furniture as a fresh lifestyle statement, not just basic stuff for getting by. We focus on on-trend, magazine-quality home goods that don’t break the bank. Homary’s mission? To help everyone embrace this new way of living.",
             "enable_border_left": false,
             "enable_border_right": true
           }
@@ -50,10 +50,10 @@
         "footer-4": {
           "type": "contacts",
           "settings": {
-            "address": "Some Address",
-            "phone": "1-212-123 45 67",
-            "email": "info@themex.com",
-            "working_hours": "Some Working Hours",
+            "address": "Guangdong,china",
+            "phone": "",
+            "email": "444578200@qq.com",
+            "working_hours": "24-hour Monday through Sunday",
             "show_social": true,
             "enable_border_left": true,
             "enable_border_right": false
@@ -73,10 +73,10 @@
         "enable_country_selector": true,
         "enable_language_selector": true,
         "payment_enable": true,
-        "show_policy": false,
+        "show_policy": true,
         "enable_copyright_date": true,
         "enable_copyright_shopname": true,
-        "enable_follow_on_shop": false
+        "enable_follow_on_shop": true
       }
     }
   },
