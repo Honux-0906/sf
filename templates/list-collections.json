@@ -1,1 +1,56 @@
-{"sections":{"main-list-collections":{"type":"main-list-collections","settings":{"margin_top":"no-indent","margin_bottom":"m"}},"newsletter":{"type":"newsletter","settings":{"color_scheme":"background-1","margin_top":"m","margin_bottom":"no-indent"}}},"order":["main-list-collections","newsletter"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-list-collections": {
+      "type": "main-list-collections",
+      "settings": {
+        "title": "entire collection",
+        "color_scheme": "",
+        "layout": "overlay",
+        "collections_to_show": 12,
+        "columns_per_row": 6,
+        "sort": "date_reversed",
+        "indent_value": "2.4rem",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "image_ratio": "1/1",
+        "object_fit": "cover",
+        "overlay_enable": true,
+        "overlay_opacity": 0.2,
+        "margin_top": "no-indent",
+        "margin_bottom": "m"
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "color_scheme": "background-1",
+        "overlay_enable": true,
+        "overlay_opacity": 0.5,
+        "align_content": "right",
+        "heading": "Heading for subscribe form",
+        "heading_size": "h2",
+        "newsletter_text": "Additional text for subscribe form.",
+        "button_style": "primary",
+        "show_border_top": true,
+        "show_border_bottom": false,
+        "margin_top": "m",
+        "margin_bottom": "no-indent",
+        "padding_top": "l",
+        "padding_bottom": "l"
+      }
+    }
+  },
+  "order": [
+    "main-list-collections",
+    "newsletter"
+  ]
+}
