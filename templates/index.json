@@ -589,11 +589,12 @@
         "accordion-2",
         "accordion-3"
       ],
+      "disabled": true,
       "settings": {
         "section_heading": "Frequently Asked Questions",
         "section_heading_size": "h2",
         "section_button_label": "Read All FAQ",
-        "section_button_link": "",
+        "section_button_link": "shopify://policies/contact-information",
         "section_button_style": "secondary",
         "show_border_top": false,
         "show_border_bottom": false,

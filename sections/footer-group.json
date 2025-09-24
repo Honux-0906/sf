@@ -42,7 +42,7 @@
         "footer-3": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "Quick search",
             "menu": "footer",
             "default_open": false
           }
