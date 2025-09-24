@@ -14,7 +14,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "image_products": "shopify://shop_images/2634f04439a8cc96ab31cbfcf6fe3408_1.webp",
+        "image_products": "shopify://shop_images/2.webp",
         "margin_top": "no-indent",
         "margin_bottom": "no-indent"
       }
@@ -22,9 +22,9 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
-        "products_per_page": 9,
+        "products_per_page": 8,
         "columns_mobile": "1",
-        "image_ratio": "3/2",
+        "image_ratio": "1/1",
         "image_fit": "cover",
         "content_alignment": "center",
         "show_secondary_image": true,
