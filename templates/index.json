@@ -183,9 +183,9 @@
       "settings": {
         "product_list": [
           "e425265e-b747-4869-85fd-8aa300f3d7ca",
-          "aa0e3d93-1a8e-4f16-9529-80d153e8b15b",
-          "b0246221-487d-4487-935e-9992d5dae746",
-          "213ef3f6-76a9-4f9e-94d3-e2e24104ed4c"
+          "213ef3f6-76a9-4f9e-94d3-e2e24104ed4c",
+          "15bcf96d-2a33-455a-ba93-14b6a19d6677",
+          "375b00c0-515b-49f0-bbf3-d3bde562eeb7"
         ],
         "columns_per_row": 4,
         "columns_mobile": "1",
@@ -376,7 +376,9 @@
           "d8f74819-78ed-499a-9e4e-48dd46dc63c7",
           "49f29030-96c8-447c-b7b3-b5b3ec94b681",
           "38be58c0-47e5-4ffe-b3c2-8d3c09d7b912",
-          "08b796d3-ec3c-4d41-bfb3-b4de96a73aae"
+          "43a6a882-699f-42d6-b9cc-43fd2db7afd7",
+          "b08a8485-7eb8-4dfa-b609-22d6855646ba",
+          "9fb35171-ad8c-4594-8c01-aa9feba1073b"
         ],
         "columns_per_row": 4,
         "columns_mobile": "1",
