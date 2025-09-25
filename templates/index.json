@@ -112,26 +112,6 @@
             "overlay_opacity": 0.2
           }
         },
-        "collection_3": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "lighting",
-            "color_scheme": "",
-            "image": "shopify://shop_images/213da8d75bdaa59b8f69f304aff61c89.png",
-            "overlay_enable": true,
-            "overlay_opacity": 0.2
-          }
-        },
-        "collection_4": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "kitchen-remodel",
-            "color_scheme": "",
-            "image": "shopify://shop_images/3c5d088c618b02e8ecb8a5ae1db35ad3.png",
-            "overlay_enable": true,
-            "overlay_opacity": 0.2
-          }
-        },
         "collection_5": {
           "type": "collection_item",
           "settings": {
@@ -155,9 +135,9 @@
         "collection_item_kGkUwt": {
           "type": "collection_item",
           "settings": {
-            "collection": "decor-rugs",
+            "collection": "entryway-furniture",
             "color_scheme": "",
-            "image": "shopify://shop_images/standard_resolution.webp",
+            "image": "shopify://shop_images/f31bc9dae5f66b9298f459723a2a211d.webp",
             "overlay_enable": true,
             "overlay_opacity": 0.2
           }
@@ -165,9 +145,9 @@
         "collection_item_KJE47Q": {
           "type": "collection_item",
           "settings": {
-            "collection": "bathroom-remodel",
+            "collection": "bedroom-furniture",
             "color_scheme": "",
-            "image": "shopify://shop_images/0a9e11978b5092a0f71a5cbdfe420dcc.webp",
+            "image": "shopify://shop_images/bed.webp",
             "overlay_enable": true,
             "overlay_opacity": 0.2
           }
@@ -176,16 +156,14 @@
       "block_order": [
         "collection_1",
         "collection_2",
-        "collection_3",
-        "collection_4",
         "collection_5",
         "collection_6",
         "collection_item_kGkUwt",
         "collection_item_KJE47Q"
       ],
       "settings": {
-        "layout": "overlay",
-        "columns_per_row": 8,
+        "layout": "standard",
+        "columns_per_row": 6,
         "indent_value": "2.4rem",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
@@ -195,7 +173,7 @@
         "section_heading_size": "h3",
         "section_button_label": "View All",
         "section_button_link": "shopify://collections",
-        "section_button_style": "tertiary",
+        "section_button_style": "secondary",
         "margin_top": "s",
         "margin_bottom": "no-indent"
       }
