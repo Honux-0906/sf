@@ -519,7 +519,7 @@
       ],
       "settings": {
         "layout": "image_right",
-        "image_size": "1/1",
+        "image_size": "16/9",
         "is_loop": true,
         "is_autoplay": true,
         "is_hover_stop_autoplay": true,
