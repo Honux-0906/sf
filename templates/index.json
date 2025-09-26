@@ -481,7 +481,7 @@
         "testimonials_slide_1": {
           "type": "testimonials_slide",
           "settings": {
-            "image": "shopify://shop_images/01_testimonials_inteior.webp",
+            "image": "shopify://shop_images/a986ace7e7ce4df892e2677946e82641.jpg",
             "text": "Set has elevated my living room to a space ofelegance and comfort, where every family memberenjoys spending time. lt is not just furniture; it's aninvestment in quality and comfort.",
             "product_name": "Curve Lounge Chair",
             "author_name": "Reviewed by Dylan Moreno",
@@ -492,7 +492,7 @@
         "testimonials_slide_2": {
           "type": "testimonials_slide",
           "settings": {
-            "image": "shopify://shop_images/02_testimonials_inteior.webp",
+            "image": "shopify://shop_images/1f77c30edf0d4b34850800ce440c3bc1.jpg",
             "text": "The storage space underneath is a thoughtfuladdition, helping keep the living room tidy andclutter-free.Graphite",
             "product_name": "Graphite Gleam Plush Sofa",
             "author_name": "Reviewed by Keira lto",
@@ -519,7 +519,7 @@
       ],
       "settings": {
         "layout": "image_right",
-        "image_size": "16/9",
+        "image_size": "1/1",
         "is_loop": true,
         "is_autoplay": true,
         "is_hover_stop_autoplay": true,
