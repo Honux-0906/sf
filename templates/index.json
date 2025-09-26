@@ -528,9 +528,9 @@
         "slideshow_delay": 4,
         "subheading": "Reviews",
         "heading": "We Appreciate Your Feedback and Always Listen to Your Opinion",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "text": "4.5 Out of 5 Stars from Over 325 Reviews",
-        "margin_top": "xl",
+        "margin_top": "l",
         "margin_bottom": "no-indent"
       }
     },
