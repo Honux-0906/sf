@@ -53,7 +53,7 @@
         "enable_country_selector": true,
         "enable_language_selector": true,
         "enable_social": true,
-        "sticky_header_type": "on-scroll-up",
+        "sticky_header_type": "always",
         "enable_search": true
       }
     }
