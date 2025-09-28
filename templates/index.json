@@ -313,11 +313,11 @@
             "show_icon_sound": true,
             "description_video": "",
             "subheading": "NEW ARRIVALS",
-            "heading": "Be the First to Introduce ExquisiteDecor Collection",
+            "heading": "Be the First to Introduce Decor Collection",
             "heading_size": "h2",
             "text": "",
             "primary_button_label": "Shop Now",
-            "primary_button_link": "shopify://collections",
+            "primary_button_link": "shopify://collections/deck-boxes-patio-storage",
             "secondary_button_label": "",
             "secondary_button_link": "",
             "full_link": false
