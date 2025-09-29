@@ -182,7 +182,7 @@
       "type": "popular-products",
       "settings": {
         "product_list": [
-          "2-pack-outdoor-wall-light-fixture-weatherproof-led-wall-sconce-with-bubble-crystal-and-light-sensor-12w-per-lamp-furniture-zuri",
+          "2-pack-outdoor-wall-light-weatherproof-led-sensor-zuri",
           "bed-frame-king-size-wood-platform-bed-frame-noise-free-no-box-spring-needed-and-easy-assembly-tool-large-under-bed-storage-dark-brown-home-furnishings-lazy-boy-home-decor",
           "6-drawer-storage-cabinet-dresser-wood-storage-tower-clothes-organizer-with-wavy-drawer-panel-wide-chest-of-6-drawers-large-storage-space-for-bedroom-hallway-entryway-living-room-white-home-furnishings-lazy-boy-home-decor",
           "4-piece-rope-patio-furniture-set-tempered-glass-table-homary"
@@ -373,10 +373,10 @@
       "type": "popular-products",
       "settings": {
         "product_list": [
-          "black-crystal-chandelier-ceiling-light-modern-luxury-10-light-flush-mount-light-fixture-elegant-home-lighting-for-living-room-dining-room-bedroom-furniture-zuri",
-          "6-light-led-vanity-light-sleek-black-bathroom-wall-light-fixture-for-mirror-shower-and-bathroom-decor-furniture-zuri",
-          "modern-4-layer-woven-hemp-rope-chandelier-boho-style-pendant-light-elegant-hanging-light-fixture-for-living-room-dining-room-bedroom-no-bulbs",
-          "5-light-cluster-pendant-light-brass-high-ceiling-chandeliers-adjustable-living-room-pendant-light-foyer-chandeliers-stairwell-pendant-lights-e12-not-including-bulb-furniture-zuri"
+          "black-crystal-chandelier-10-light-flush-mount-living-room-dining-room-homary",
+          "6-light-led-vanity-light-black-bathroom-wall-fixture-zuri",
+          "modern-4-layer-hemp-rope-chandelier-boho-pendant-light-living-room-homary",
+          "5-light-cluster-pendant-light-brass-high-ceiling-e12-foyer-homary"
         ],
         "columns_per_row": 4,
         "columns_mobile": "1",
@@ -437,7 +437,7 @@
         "block_3": {
           "type": "product-slider_item",
           "settings": {
-            "product": "modern-4-layer-woven-hemp-rope-chandelier-boho-style-pendant-light-elegant-hanging-light-fixture-for-living-room-dining-room-bedroom-no-bulbs",
+            "product": "modern-4-layer-hemp-rope-chandelier-boho-pendant-light-living-room-homary",
             "image": "shopify://shop_images/3.webp",
             "subheading": "FEATURED COLLECTION",
             "heading": "Discover products crafted to add a splash osophistication to your living spaces",
