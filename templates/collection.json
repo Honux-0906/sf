@@ -25,7 +25,7 @@
         "columns_mobile": "1",
         "image_ratio": "1/1",
         "image_fit": "cover",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_collection": false,
