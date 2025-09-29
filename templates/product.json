@@ -22,8 +22,8 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_size": "h3",
-            "badges_type": "block",
+            "heading_size": "h2",
+            "badges_type": "inline",
             "badges_color": "background-2"
           }
         },
