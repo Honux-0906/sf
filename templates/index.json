@@ -201,7 +201,7 @@
         "show_vendor": false,
         "show_collection": false,
         "show_desc": false,
-        "content_alignment": "center",
+        "content_alignment": "left",
         "margin_top": "m",
         "margin_bottom": "no-indent"
       }

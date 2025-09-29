@@ -10,12 +10,13 @@
 {
   "current": {
     "color_scheme": "light",
-    "type_header_font": "alegreya_sans_n4",
+    "type_header_font": "sans_serif_n4",
     "type_section_header_font": "jost_n7",
     "heading_h2_scale": 100,
     "type_header_letter_spacing": -0.2,
     "type_header_line_height": 1.2,
-    "type_header_font_card": "dm_sans_n4",
+    "type_header_font_card": "system_ui_n4",
+    "heading_scale_card": 130,
     "type_text_font_card": "dm_sans_n4",
     "type_body_font": "dm_sans_n4",
     "type_body_letter_spacing": 0,
