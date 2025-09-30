@@ -45,7 +45,7 @@
           "disabled": true,
           "settings": {
             "label": "Popup link text",
-            "page": "",
+            "page": "contact",
             "heading": "Popup heading",
             "text": "<p>Some text</p>"
           }
