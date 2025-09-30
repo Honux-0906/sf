@@ -61,7 +61,7 @@
         "inventory": {
           "type": "inventory",
           "settings": {
-            "show_shipping": true,
+            "show_shipping": false,
             "min_spend": 500
           }
         },
