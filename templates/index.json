@@ -12,6 +12,23 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "block_2": {
+          "type": "slideshow_item",
+          "settings": {
+            "color_scheme": "background-3",
+            "image": "shopify://shop_images/20250930155946_103_30.jpg",
+            "subheading": "Discounted Bestseller",
+            "heading": "UP TO 50% OFF",
+            "heading_size": "h1",
+            "text": "<strong>Welcome to your bright home!</strong>",
+            "primary_button_label": "View All",
+            "primary_button_link": "shopify://collections/lighting",
+            "secondary_button_label": "",
+            "secondary_button_link": "",
+            "overlay_enable": true,
+            "overlay_opacity": 0.2
+          }
+        },
         "block_1": {
           "type": "slideshow_item",
           "settings": {
@@ -23,23 +40,6 @@
             "text": "Explore curated interiors that work inharmony to improve your living space.",
             "primary_button_label": "Shop Now",
             "primary_button_link": "shopify://collections/living-room-furniture",
-            "secondary_button_label": "",
-            "secondary_button_link": "",
-            "overlay_enable": true,
-            "overlay_opacity": 0.2
-          }
-        },
-        "block_2": {
-          "type": "slideshow_item",
-          "settings": {
-            "color_scheme": "background-3",
-            "image": "shopify://shop_images/20250930142140_97_30.jpg",
-            "subheading": "Discounted Bestseller",
-            "heading": "UP TO 40% OFF",
-            "heading_size": "h1",
-            "text": "<strong>The product price will bring you an amazing surprise!</strong>",
-            "primary_button_label": "View All",
-            "primary_button_link": "shopify://collections/tubs",
             "secondary_button_label": "",
             "secondary_button_link": "",
             "overlay_enable": true,
@@ -65,8 +65,8 @@
         }
       },
       "block_order": [
-        "block_1",
         "block_2",
+        "block_1",
         "slideshow_item_fWmLwK"
       ],
       "settings": {
